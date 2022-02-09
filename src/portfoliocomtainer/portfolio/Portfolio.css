@@ -1,0 +1,108 @@
+.PortfolioMainDiv {
+  min-height: 100vh;
+  width: 100%;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  background-color: rgba(17, 71, 102, 0.103);
+  padding-bottom: 0.1%;
+  margin-bottom: 3%;
+}
+.spanAboutMeThree {
+  padding-bottom: 0;
+  margin-bottom: 0;
+  transform: translate(0%);
+}
+.sectionTittle {
+  color: #06223b;
+  font-weight: bold;
+}
+.timelineAfterMainDiv {
+  width: 65%;
+  height: auto;
+  max-width: 800px;
+  margin: 0 auto;
+  position: relative;
+  font-size: 0.8rem;
+  line-height: 1;
+  font-family: "Courier New", Courier, monospace;
+}
+.timelineUl {
+  list-style: none;
+}
+.sectionTittle {
+  font-size: 1.5rem;
+}
+.timelineLi {
+  padding: 3% 3% 3%;
+  width: 100%;
+  color: #d0deec;
+  border-radius: 0 50px 0px 50px;
+  margin-bottom: 5%;
+  background: radial-gradient(
+    circle,
+    rgba(17, 71, 102, 0.857113707299326) 41%,
+    rgba(0, 0, 0, 1) 100%
+  );
+}
+.timelineLi:last-child {
+  margin-bottom: 0;
+}
+@media only screen and (min-width: 768px) {
+  .timelineMainDiv::before {
+    content: "";
+    position: absolute;
+    height: 136vh;
+    width: 1px;
+    background: radial-gradient(
+      circle,
+      rgba(17, 71, 102, 0.857113707299326) 41%,
+      rgba(0, 0, 0, 1) 100%
+    );
+    left: 50%;
+    transform: translate(-50%);
+    padding: 0.2%;
+  }
+  .timelineLi {
+    width: 65%;
+    position: relative;
+  }
+  .timelineLi:nth-child(odd) {
+    float: left;
+    clear: right;
+    transform: translatex(-40%);
+    border-radius: 20px 0 20px 80px;
+  }
+  .timelineLi:hover {
+    zoom: 1.2;
+  }
+  .timelineLi:nth-child(even) {
+    float: right;
+    clear: left;
+    transform: translatex(30%);
+    border-radius: 0 20px 80px 30px;
+  }
+  .timelineLi::after {
+    content: "";
+    position: absolute;
+    height: 20px;
+    width: 20px;
+    background-color: #06223b;
+    border-radius: 50%;
+    top: 0%;
+  }
+  .timelineLi:hover {
+    zoom: 1.1;
+  }
+  .timelineLi:nth-child(odd)::after {
+    right: -15px;
+    transform: translate(50%, -50%);
+  }
+  .timelineLi:nth-child(even)::after {
+    left: -20px;
+    transform: translate(-50%, 50%);
+  }
+  .timelineLi:hover:after {
+    background-color: #06223bc7;
+  }
+}

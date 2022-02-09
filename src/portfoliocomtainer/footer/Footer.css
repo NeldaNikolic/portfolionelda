@@ -1,0 +1,17 @@
+.foottwo {
+  background-color: #e6ecf0d7;
+  height: 100%;
+  width: 100%;
+  bottom: 0px;
+  padding: 1% 0 1%;
+  z-index: 999;
+  opacity: 0.9;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  color: #06223b;
+  bottom: 0;
+  margin-bottom: 0;
+  padding-bottom: 0;
+
+}

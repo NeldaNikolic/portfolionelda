@@ -1,0 +1,213 @@
+.aboutDiv {
+  background: radial-gradient(
+    circle,
+    rgba(17, 71, 102, 0.363) 41%,
+    rgba(0, 0, 0, 0) 100%
+  );
+  display: flex;
+  align-items: center;
+  text-align: center;
+  justify-content: center;
+  padding-top: 0;
+  min-height: fit-content;
+  overflow: hidden;
+  min-width: fit-content;
+  padding: 0.5%;
+  
+}
+.col-left {
+  top: 0;
+  padding: 0;
+  margin: 0;
+}
+.spanAbout {
+  top: 0;
+  bottom: 0;
+  align-items: center;
+  display: flex;
+  font-weight: bold;
+  margin: 0 0% 0% 35%;
+  color: #06223b;
+}
+.hrAbout {
+  border-radius: 80%;
+  transform: translate(0%);
+  transform: translate(-0%);
+  width: 100%;
+  padding: 0;
+  top: 0;
+  align-items: center;
+}
+.pAbout {
+  font-size: 0.6rem;
+  padding-bottom: 0;
+  bottom: 0;
+  transform: translate(0%);
+  transform: translate(-0%);
+  align-items: center;
+}
+.sectionTittleOne {
+  font-family: "Courier New", Courier, monospace;
+  color: #06223b;
+  padding: 0%;
+  font-size: 1.4rem;
+  transform: translate(0%);
+  transform: translate(-0%);
+  align-items: center;
+}
+
+.hfive {
+  font-size: 1.5rem;
+  color: #06223b;
+  align-items: left;
+}
+
+.col-rightTwo {
+  top: 0;
+  text-align: left;
+  padding: 5%;
+  font-size: 0.8rem;
+  margin: 0.2% 20% 5% 20%;
+}
+.About-profileDivP  {
+  box-shadow: 0 5px 0 #06223b;
+  color: #06223b;
+  font-family: "Courier New", Courier, monospace;
+  transform: translate(0%);
+  padding: 2%;
+}
+.About-profileDivPTwo {
+  box-shadow: 0 5px 0 #06223b;
+  color: #06223b;
+  transform: translate(0%);
+  padding: 2%;
+  font-family: "Courier New", Courier, monospace;
+  
+}
+.hfive {
+  display: flex;
+  line-height: 1;
+  top: 0;
+  box-shadow: 0 5px 0 #06223b;
+  border-radius: 2%;
+  padding-bottom: 1%;
+  margin-bottom: 1%;
+  right: 1%;
+  text-align: left;
+  width: 70%;
+  color: #06223b;
+  left: 100%;
+  transform: translate(0%);
+  padding: 2%;
+  font-size: 1rem;
+  font-family: "Courier New", Courier, monospace;
+}
+.aHrefAbout {
+  color: #06223b;
+  font-family: "Courier New", Courier, monospace;
+  padding-top: 2%;
+  margin: 0;
+  font-size: 1rem;
+  font-weight: bold;
+  cursor: pointer;
+  font-weight: bold;
+}
+.aHrefAbout:hover {
+  border-bottom: 5px solid #06223bb9;
+  text-transform: uppercase;
+  filter: opacity(0.4);
+  transform: scale(1.2);
+}
+.aHrefAboutTwo {
+  display: flex;
+  right: 50%;
+  transform: translate(60%);
+  color: #06223b;
+  font-family: "Courier New", Courier, monospace;
+  padding-top: 1%;
+  margin: 0;
+  font-size: 1rem;
+  font-weight: bold;
+  cursor: pointer;
+  font-weight: bold;
+}
+.aHrefAboutTwo:hover {
+  border-bottom: 5px solid #06223bb9;
+  text-transform: uppercase;
+  filter: opacity(0.4);
+  transform: scale(1.2);
+}
+.imageOne {
+  display: flex;
+  position: relative;
+  height: 120px;
+  margin-left: .1%;
+  padding: 1%;
+  transform: translate(0%);
+  box-shadow: 0 5px #06223b;
+  border-radius: 5%;
+  padding-bottom: 1%;
+  cursor: pointer;
+}
+.imageOne:hover {
+  filter: opacity(0.3);
+}
+.imageTwo {
+  display: flex;
+  padding-top: 1%;
+  position: relative;
+  height: 120px;
+  margin-left: 0.1%;
+  transform: translate(0%);
+  box-shadow: 0 5px 0 #06223b;
+  border-radius: 5%;
+  padding-bottom: 2%;
+  cursor: pointer;
+}
+.imageTwo:hover {
+  filter: opacity(0.3);
+}
+.imageThree {
+  display: flex;
+  position: relative;
+  padding-top: 1%;
+  height: 120px;
+  margin-left: 0.1%;
+  transform: translate(0%);
+  box-shadow: 0 5px 0 #06223b;
+  border-radius: 5%;
+  padding-bottom: 1%;
+  cursor: pointer;
+}
+.imageThree:hover {
+  filter: opacity(0.3);
+}
+.imageFour {
+  display: flex;
+  position: relative;
+  padding-top: 1%;
+  height: 120px;
+  margin-left: 0.1%;
+  transform: translate(0%);
+  box-shadow: 0 5px #06223b;
+  border-radius: 5%;
+  padding-bottom: 1%;
+  cursor: pointer;
+}
+.imageFour:hover {
+  filter: opacity(0.3);
+}
+.imageFive {
+  display: flex;
+  position: relative;
+  height: 120px;
+  margin-left: 0.1%;
+  transform: translate(0%);
+  box-shadow: 0 5px #06223b;
+  border-radius: 5%;
+  padding-bottom: 1%;
+  cursor: pointer;
+}
+.imageFive:hover {
+  filter: opacity(0.3);
+}
