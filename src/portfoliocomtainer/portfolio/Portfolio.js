@@ -37,13 +37,12 @@ export default function Portfolio() {
                         Javasript Framworks <IoLogoJavascript className="homeIcon"/>
                       </h3>
                       <p>
-                        Javasript frameworks most perferable programing
-                        langueges intergrates as both the fontend as well as the
-                        backendin coperating with React/React/Native
-                        Vue,Node,css,HTML,hyper etc. JavaScript frameworks are
-                        an essential part of modern front-end web development.
-                        Building scalable interactive web app fundamental
-                        background knowledge.
+                      JavaScript frameworks most preferable programing languages 
+                      integrated as both the frontend as well as the backend 
+                      cooperating with React/React/Native Vue,Node,css,HTML,hyper etc. 
+                      JavaScript frameworks are an essential part of modern 
+                      front-end web development. Building scalable interactive web 
+                      app fundamental background knowledge.
                       </p>
                     </div>
                   </li>

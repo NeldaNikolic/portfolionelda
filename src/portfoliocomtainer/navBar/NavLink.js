@@ -45,7 +45,7 @@ const NavLink = (props) => {
           animate={animating}
           onClick={() => props.isMobile && props.closeMobilMenu()}
         >
-         <Link to="/Portfolio">Resume</Link>
+         <Link to="/">Resume</Link>
         </motion.li>
       </ul>
     </nav>

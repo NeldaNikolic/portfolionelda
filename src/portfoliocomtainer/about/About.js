@@ -38,14 +38,16 @@ export default function About() {
         <div className="col-rightTwo">
           <h5 className="hfive">Introdoction to Framworks</h5>
           <p className="About-profileDivP">
-            The Science of solfware program; The studying of different solfware
-            languages skills. the developement new functional applications are a
-            main focus. Learning about porgroming languages studing for hours.
-            focussing on both the front as well as the backend technologies. The
-            increassing knowleges of mothend technologies Comunication are
-            mesmerazing. The styding of comphement of computers systems as well
-            the desing and analyzing and programing hardware and solfware. the
-            pocessing of information and creating artifical interlligents.
+          The Science of software program; The studying of different
+          software languages skills. the development new functional 
+          applications are a focus. Learning about programming 
+          languages studying for hours. focusing on both 
+          the front as well as the backend technologies. 
+          The increasing knowledge of modern technologies 
+          Communications are mesmerizing. The studying of 
+          complement of computers systems as well the design 
+          and analyzing and programing hardware and software. 
+          the processing of information and creating artificial intelligent.
             <br />
             <a href="https://newgalleriaport.herokuapp.com/">
             <img className="imageOne"  
@@ -77,12 +79,12 @@ export default function About() {
             {" "}
             view Galleria
           </a>
-            <a href="https://newgalleriaport.herokuapp.com/">
+            <a href="https://github.com/NeldaNikolic">
               <img
                 className="imageThree" src={imageThree} alt="imageThree"
               ></img>
               </a>
-          <a className="aHrefAboutTwo" href="https://newgalleriaport.herokuapp.com/">
+          <a className="aHrefAboutTwo" href="https://github.com/NeldaNikolic">
             {" "}
             view Dane's Eagles
           </a>

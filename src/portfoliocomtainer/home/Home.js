@@ -20,7 +20,7 @@ export default function Home() {
                   steps={[
                     "welcome",
                     1000,
-                    "\I am Nelda ",
+                    "I am Nelda ",
                     1000,
                     "full stack developer",
                     1000,
@@ -37,7 +37,7 @@ export default function Home() {
               </h1>
               <div className="Home-profileDivSpan">
                 <span className="Home-profileSpan">
-                  Interacting betwween Machines, linking the front and the back
+                  Interacting between Machines, linking the front and the back
                   end.
                   <br />
                   Comunicating languages among servers are my Specialties.
@@ -66,7 +66,7 @@ export default function Home() {
               Projects
             </button>
             </a>
-            <a href="#portfolio">
+            <a href="Nelda Baptiste Portfolio.pdf" download="Nelda Baptiste Portfolio.pdf">
               <button className="homeButtonTwo" >
                 <FaFileCode className="homeIconButtonTwo" />
                 My Resume
