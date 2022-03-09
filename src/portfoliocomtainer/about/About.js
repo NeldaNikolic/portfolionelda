@@ -38,16 +38,16 @@ export default function About() {
         <div className="col-rightTwo">
           <h5 className="hfive">Introdoction to Framworks</h5>
           <p className="About-profileDivP">
-          The Science of software program; The studying of different
-          software languages skills. the development new functional 
-          applications are a focus. Learning about programming 
-          languages studying for hours. focusing on both 
-          the front as well as the backend technologies. 
-          The increasing knowledge of modern technologies 
-          Communications are mesmerizing. The studying of 
-          complement of computers systems as well the design 
-          and analyzing and programing hardware and software. 
-          the processing of information and creating artificial intelligent.
+           The Science of software program; 
+           The studying of different software languages skills. 
+           the development of new functional applications are a focus. 
+           Learning about programming languages by studying for hours. 
+           focusing on both the front as well as the backend technologies. 
+           The increasing knowledge of modern technologies and 
+           Communications are mesmerizing. 
+           The studying of complement of computers systems as well 
+           the design and analyzing and programing hardware and software. 
+           the processing of information and creating artificial intelligence.
             <br />
             <a href="https://newgalleriaport.herokuapp.com/">
             <img className="imageOne"  
@@ -62,13 +62,13 @@ export default function About() {
           <h5 className="hfive">Galleria applycatin project </h5>
           <p className="About-profileDivPTwo">
             The interaction between the visual view as a human and the science
-            systems in the backend are the most unique Experiances. The Galleria
-            project is a fully interative applications using React,
-            react/Native, vue,hyper,Javasript,HTML,css,Node as well as multiple
-            functioning librery. Opening with a Galleria of beautiful images
-            taking by Neldausing all the technologies that were colloberated to
+            systems in the backend are the most unique Experiences. The Galleria
+            project is a fully interactive applications using React,
+            react/Native, vue,hyper,Javascript,HTML,css,Node as well as multiple
+            functioning library. Opening with a Galleria of beautiful images
+            taking by Using all the technologies that were collaborated to
             develop the Galleria application expended my intelligents.The many
-            different times having to debugs the code in the times having to
+            different times having to debug the code in the times having to
             call different functions concepts and rendering.
             <div>
             <a href="https://newgalleriaport.herokuapp.com/">
@@ -93,12 +93,12 @@ export default function About() {
 
           <h5 className="hfive">DNE logistict fully function application</h5>
           <p className="About-profileDivP">
-            The DNE logistict applications was a very enjoyable project to work
-            on. Challenging my comprehention on multiple programing langueges.
-            Expanding my knowleges on the databases as a realational databases
-            even Nosql databases including stucturing informatio,Ss a form of
-            clasifiation of electronic informationa using the backend as welll
-            as the fontend.
+            The DNE logistics applications were a very enjoyable project to work
+            on. Challenging my comprehension of multiple programming languages.
+            Expanding my knowledge on the databases as a relational databases
+            even Nosql databases including structuring information,As a form of
+            classification of electronic information using the backend as well
+            as the frontend.
             <div>
             <a href="http://www.dnelogistics.org">
               <img className="imageFour" src={imageFour} alt="imageFour"></img>

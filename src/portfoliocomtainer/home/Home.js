@@ -37,18 +37,16 @@ export default function Home() {
               </h1>
               <div className="Home-profileDivSpan">
                 <span className="Home-profileSpan">
-                  Interacting between Machines, linking the front and the back
-                  end.
+                  Interacting between Machines, linking the front and the back end.
                   <br />
-                  Comunicating languages among servers are my Specialties.
-                  <br />
-                  As A results I deliver exceptional/fascinating fully develope
-                  interactive Applications.
-                  <br />
-                  Using the programing languages HTML,CSS, NPM, Bootstrap,
-                  Vue.js, Javasript,.
-                  <br /> React, React Native, Databases realational Nosql and
-                  cloud databases
+                 Communicating languages among servers are my Specialties.
+                 <br />
+                 As A results I deliver exceptional/fascinating fully developed interactive Applications.
+                 <br />
+                 Using the programming languages HTML,CSS, NPM, Bootstrap, Vue.js, Javascript,.
+                 <br />
+                 React, React Native, Databases relational Nosql and cloud databases
+                 <br />
                 </span>
                 <AiFillApi className="homeIconDiv" />
                 <GiComputing className="homeIconDivTwo" />

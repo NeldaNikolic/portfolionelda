@@ -52,14 +52,14 @@ export default function Portfolio() {
                         React/React/Native librery <GrReactjs className="homeIcon"/>
                       </h3>
                       <p>
-                        React framework and librery are amazing interfaces for
-                        building amazing responsive user interface. React
-                        performing as smooth as posible performing with
-                        excellent user Experiances. React was created by Jordan
+                        React framework and library are amazing interfaces for
+                        building an amazing responsive user interface. React
+                        performing as smooth as possible performing with
+                        excellent user Experiences. React was created by Jordan
                         Walke for Facebook in 2011. Developers were fully
-                        introduce to these framework work features later.
+                        introduced to these framework work features later.
                         JavaScript skills and full understanding came to
-                        effected.
+                        affected.   
                       </p>
                     </div>
                   </li>
@@ -70,13 +70,13 @@ export default function Portfolio() {
                       </h3>
                       <p>
                         The Organization as well as the storing of information
-                        in the applicationsint system plays an import part in
-                        building the stucture of the applications. Databases
-                        systems were used to shorten date callections depending
+                        The applicationsint system plays an important part in
+                        building the structure of the applications. Databases
+                        systems were used to shorten date collections depending
                         on the storage need for the application multiple styling
-                        of databases. Realational Databases,Nosql Databases
-                        cloud Databases are simply a few of my preferded
-                        databases
+                        of databases. Relational Databases,Nosql Databases
+                        cloud Databases are simply a few of my preferred
+                        databases            
                       </p>
                     </div>
                   </li>
@@ -91,12 +91,12 @@ export default function Portfolio() {
                       </h3>
                       <p>
                         Cascading styles sheet was created for the formation of
-                        specifice structure of relevent pages css bring out the
+                        specific structure of relevant pages css bring out the
                         beauty of the application. Applying color theory and
-                        more.HTML is use of a cross-platfrom as the application
-                        content provider. Node enviroment called npm. The
+                        more.HTML is use of a cross-platform as the application
+                        content provider. Node environment called npm. The
                         package manager makes it easier for programmers to
-                        publish. for the developement an application. Vue
+                        publish. for the development of an application. Vue
                         focuses on the declaration rendering component.
                       </p>
                     </div>
